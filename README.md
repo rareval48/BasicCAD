@@ -20,7 +20,6 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Evidence
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
-
 ### Image
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 
@@ -71,12 +70,14 @@ I remember in SolidWorks it was way harder to do this but now i can do this part
 ## Tire
 
 ### Description
-
+The fourth assignment was harder but I got it done quick,its hard to describe the dimensions because of the weird shape.
 ### Evidence
-
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/7d23e6670c9bde24e6af7a9f/w/648fe67ffc3482a687162cd9/e/dc99e138f3aa1c5667de492f)
 ### Image
+<img src="https://user-images.githubusercontent.com/71342195/95499245-0681f000-0973-11eb-9cc3-58a18c9c70ac.png" width="400">
 
 ### Reflection
+It seemed the same as SolidWorks, but it is also easier becuase you can just add stuff to sketches without adding more sketches. 
 
 ---
 
@@ -84,12 +85,14 @@ I remember in SolidWorks it was way harder to do this but now i can do this part
 ## Wheel
 
 ### Description
-
+The fifth assignment also had many shapes so its really hard to actually specify the dimensions of the real thing.
 ### Evidence
-
+[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/2c00ca62d46eed02812b9391/w/582b13aa463acd9e5d9166da/e/81d9e181915b4dab50cef8b5)
 ### Image
+<img src="https://user-images.githubusercontent.com/71342195/95499926-fddde980-0973-11eb-968f-34d898cebe45.png" width="400">
 
 ### Reflection
+This was actually really easy you just have to know what your doing and be a quick learner. It seemed quicker than SolidWorks because of the sketching and the rotation method. 
 
 ---
 
