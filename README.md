@@ -100,12 +100,17 @@ This was actually really easy you just have to know what your doing and be a qui
 ## AxleCollarBearings
 
 ### Description
-
+Thare are two different parts to this assignment one for axel and collar and one for bearing. Both were pretty easy and pretty small to make.
 ### Evidence
+[The axel and collar in Onshape](https://cvilleschools.onshape.com/documents/8908beaca639bad07649fec2/w/640cd89243cd05692e64842f/e/037d9dab074c6111f149c021)
 
+[The bearing in Onshape](https://cvilleschools.onshape.com/documents/6fe0a7487c0b4ce99b6b4dad/w/c7ecdc3ee42ab020f07d5ae7/e/527bee539e2d859d54217811)
 ### Image
+<img src="https://user-images.githubusercontent.com/71342195/95610379-3e01a280-0a2e-11eb-914a-fb03394ae078.png" width="400">
+<img src="https://user-images.githubusercontent.com/71342195/95610528-786b3f80-0a2e-11eb-8730-e12450ab6f56.png" width="400">
 
 ### Reflection
+This was way easier than SolidWorks and it was way easier to add new parts to new sketches.
 
 ---
 
