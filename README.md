@@ -11,7 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [SubAssembly/Assembly](#SubAssembly/Assembly)
+* [Assembly](#Assembly)
 
 ## Base
 
@@ -116,12 +116,12 @@ This was way easier than SolidWorks and it was way easier to add new parts to ne
 ---
 
 
-## SubAssembly/Assembly
+## Assembly
 
 ### Description
 This was pretty hard to assemble because this is a new program to me and its the hardest thing to learn in a new can system.
 ### Evidence
-[The SubAssembly/Assembly in Onshape](https://cvilleschools.onshape.com/documents/f8e42ffe55c9ecf940700c30/w/5f9e27922f54bfc5768a1a8c/e/79183751056707ae100774c1)
+[The Assembly in Onshape](https://cvilleschools.onshape.com/documents/f8e42ffe55c9ecf940700c30/w/5f9e27922f54bfc5768a1a8c/e/79183751056707ae100774c1)
 ### Image
 <img src="https://user-images.githubusercontent.com/71342195/96025087-a8498700-0e22-11eb-83f3-5b12f6060ea2.png" width="400">
 
