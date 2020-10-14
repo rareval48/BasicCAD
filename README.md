@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly/Assembly](#SubAssembly/Assembly)
 
 ## Base
 
@@ -102,9 +103,9 @@ This was actually really easy you just have to know what your doing and be a qui
 ### Description
 Thare are two different parts to this assignment one for axel and collar and one for bearing. Both were pretty easy and pretty small to make.
 ### Evidence
-[The axel and collar in Onshape](https://cvilleschools.onshape.com/documents/8908beaca639bad07649fec2/w/640cd89243cd05692e64842f/e/037d9dab074c6111f149c021)
+[The Axel and Collar in Onshape](https://cvilleschools.onshape.com/documents/8908beaca639bad07649fec2/w/640cd89243cd05692e64842f/e/037d9dab074c6111f149c021)
 
-[The bearing in Onshape](https://cvilleschools.onshape.com/documents/6fe0a7487c0b4ce99b6b4dad/w/c7ecdc3ee42ab020f07d5ae7/e/527bee539e2d859d54217811)
+[The Bearing in Onshape](https://cvilleschools.onshape.com/documents/6fe0a7487c0b4ce99b6b4dad/w/c7ecdc3ee42ab020f07d5ae7/e/527bee539e2d859d54217811)
 ### Image
 <img src="https://user-images.githubusercontent.com/71342195/95610379-3e01a280-0a2e-11eb-914a-fb03394ae078.png" width="400">
 <img src="https://user-images.githubusercontent.com/71342195/95610528-786b3f80-0a2e-11eb-8730-e12450ab6f56.png" width="400">
@@ -114,3 +115,15 @@ This was way easier than SolidWorks and it was way easier to add new parts to ne
 
 ---
 
+
+## SubAssembly/Assembly
+
+### Description
+This was pretty hard to assemble because this is a new program to me and its the hardest thing to learn in a new can system.
+### Evidence
+[The SubAssembly/Assembly in Onshape](https://cvilleschools.onshape.com/documents/f8e42ffe55c9ecf940700c30/w/5f9e27922f54bfc5768a1a8c/e/79183751056707ae100774c1)
+### Image
+<img src="https://user-images.githubusercontent.com/71342195/96025087-a8498700-0e22-11eb-83f3-5b12f6060ea2.png" width="400">
+
+### Reflection
+This was the hardest thing that I did in Onshape, the hardest part is trying to get it to be able to learn all of the mates and trying to get it to correctly in place. 
