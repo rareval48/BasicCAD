@@ -78,7 +78,7 @@ The fourth assignment was harder but I got it done quick,its hard to describe th
 <img src="https://user-images.githubusercontent.com/71342195/95499245-0681f000-0973-11eb-9cc3-58a18c9c70ac.png" width="400">
 
 ### Reflection
-It seemed the same as SolidWorks, but it is also easier becuase you can just add stuff to sketches without adding more sketches. 
+It seemed the same as SolidWorks, but it is also easier becuase you can just add stuff to the same sketch without making thousands of sketches for just one item or project. Unlike SolidWorks where you have to make a new sketch for just one small detail. 
 
 ---
 
@@ -111,7 +111,7 @@ Thare are two different parts to this assignment one for axel and collar and one
 <img src="https://user-images.githubusercontent.com/71342195/95610528-786b3f80-0a2e-11eb-8730-e12450ab6f56.png" width="400">
 
 ### Reflection
-This was way easier than SolidWorks and it was way easier to add new parts to new sketches.
+This was way easier than SolidWorks and it was way easier to add new parts to new sketches. In my opinion it is way easier to mirror different parts and add different just add little details to a part. Unlike in SolidWorks that would take you a long time just to add or mirror an object. 
 
 ---
 
@@ -126,6 +126,6 @@ This was pretty hard to assemble because this is a new program to me and its the
 <img src="https://user-images.githubusercontent.com/71342195/96025087-a8498700-0e22-11eb-83f3-5b12f6060ea2.png" width="400">
 
 ### Reflection
-This was the hardest thing that I did in Onshape, the hardest part is trying to get it to be able to learn all of the mates and trying to get it to correctly place. 
+This was the hardest thing that I did in Onshape, the hardest part is trying to get it to be able to learn all of the mates and trying to get it to correctly place. It is hard to get used to the shortcuts for every thing, like sketch, extrude, and the different shapes.  
 
 ---
