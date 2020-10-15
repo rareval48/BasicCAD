@@ -126,6 +126,6 @@ This was pretty hard to assemble because this is a new program to me and its the
 <img src="https://user-images.githubusercontent.com/71342195/96025087-a8498700-0e22-11eb-83f3-5b12f6060ea2.png" width="400">
 
 ### Reflection
-This was the hardest thing that I did in Onshape, the hardest part is trying to get it to be able to learn all of the mates and trying to get it to correctly in place. 
+This was the hardest thing that I did in Onshape, the hardest part is trying to get it to be able to learn all of the mates and trying to get it to correctly place. 
 
 ---
